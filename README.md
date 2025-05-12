@@ -23,16 +23,6 @@ pip install opencv-python mediapipe numpy
 
 ---
 
-## 🚀 Usage
-
-```bash
-python forearm_movement_tracker.py
-```
-
-- Press `q` to quit the application.
-
----
-
 ## 📷 How It Works
 
 1. Captures video input from webcam  
