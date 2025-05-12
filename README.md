@@ -73,5 +73,4 @@ elif angle_l > 120 and movement_in_progress_left:
 
 - [MediaPipe](https://google.github.io/mediapipe/)
 - [OpenCV](https://opencv.org/)
-- Inspired by fitness applications for posture tracking and exercise logging  
 
